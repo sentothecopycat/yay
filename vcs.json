@@ -1,0 +1,20 @@
+{
+	"hyde-cli-git": {
+		"github.com/kRHYME7/Hyde-cli": {
+			"protocols": [
+				"https"
+			],
+			"branch": "master",
+			"sha": "4aa2a46c9e4e6c459587e768619d4f7b839a5bdd"
+		}
+	},
+	"oh-my-zsh-git": {
+		"github.com/ohmyzsh/ohmyzsh.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "a87e9c715b2d3249681f9cc8f8d9718030674d50"
+		}
+	}
+}
